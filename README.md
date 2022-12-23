@@ -51,6 +51,9 @@
 - **Cloud Hosting**:
 
     ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
+    ![PythonAnywhere](https://img.shields.io/badge/PythonAnywhere%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
+    ![Heroku](https://img.shields.io/badge/Heroku%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
+    ![Cloudflare](https://img.shields.io/badge/Cloudflare%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
     
 <br>
 
