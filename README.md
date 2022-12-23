@@ -47,15 +47,12 @@
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
 <br>
-<!-- 
+
 - **Cloud Hosting**:
 
     ![Github Pages](https://img.shields.io/badge/-Cloudflare-orange)
-    ![PythonAnywhere](https://img.shields.io/badge/PythonAnywhere-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Heroku](https://img.shields.io/badge/Heroku-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Cloudflare](https://img.shields.io/badge/Cloudflare-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
     
-<br> -->
+<br>
 
 - **Softwares and Tools**:
 
